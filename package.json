@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cpb-home/AJS-1-npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "cpb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpb-home/AJS-1-npm-package/issues"
+  },
+  "homepage": "https://github.com/cpb-home/AJS-1-npm-package#readme"
+}
